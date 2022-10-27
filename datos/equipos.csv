@@ -1,0 +1,12 @@
+numero;nombre_equipo;pokemon;movimientos
+0;PERROS;Pikachu;['agility', 'bodyslam', 'charm', 'electroweb']
+0;PERROS;Bulbasaur;['flash', 'furycutter', 'growl', 'headbutt']
+0;PERROS;Machop;['fireblast', 'firepunch', 'fissure', 'flamethrower']
+0;PERROS;Golem;['bodyslam', 'bulldoze', 'earthquake', 'explosion']
+0;PERROS;Kingler;['agility', 'blizzard', 'bodyslam', 'bubble']
+1;UWUNTU;Psyduck;['aerialace', 'aquatail', 'blizzard', 'bodyslam']
+1;UWUNTU;Krabby;['agility', 'blizzard', 'bodyslam', 'bubble']
+1;UWUNTU;Golduck;['aerialace', 'furyswipes', 'headbutt', 'icepunch']
+1;UWUNTU;Nidoking;['blizzard', 'bodyslam', 'bubblebeam', 'bulldoze']
+1;UWUNTU;Staryu;['blizzard', 'psychic', 'psywave', 'tackle']
+
